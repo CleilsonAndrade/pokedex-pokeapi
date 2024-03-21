@@ -39,12 +39,12 @@ Pokédex que utiliza a API PokéAPI para consulta de Pokémons por nome ou numer
   * #333<br>
 
 - <span id="fontes">Fontes<br></span>
-  * Oxanium, cursive
+  * Oxanium, cursive, sans-serif
 
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
-  $ git clone https://github.com/CleilsonAndrade/pokedex-pokeapi
+  $ git clone https://github.com/CleilsonAndrade/pokedex-pokeapi.git
   $ cd ./pokedex-pokeapi
 ```
 
